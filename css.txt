@@ -12,13 +12,13 @@
     }
 
 /* Hidding the bitnami banner at bottom */
-   #bitnami-banner .bitnami-corner-image-div .bitnami-corner-image {
+   #bitnami-banner .bitnami-corner-image-div .bitnami-corner-image{
 
     display: none;
     }
   
   
- .tawcvs-swatches .swatch {
+ .tawcvs-swatches .swatch{
 
     border-radius: 0px;
  
@@ -38,7 +38,7 @@
  
 /* page spacing category above footer */
 
-    div.featured-cats {
+    div.featured-cats{
 
     padding-bottom: 20px !important;
 
