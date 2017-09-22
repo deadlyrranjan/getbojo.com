@@ -1,0 +1,4 @@
+/* Hidding the bitnami banner at bottom */ 
+    #bitnami-banner .bitnami-corner-image-div .bitnami-corner-image {
+      display: none;
+     }

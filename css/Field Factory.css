@@ -1,0 +1,7 @@
+/* Field Factory */
+    td.wccpf_value, td.wccpf_label{
+      padding-top:5px;
+     }
+     ul.wccpf-field-layout-horizontal{
+       margin:0px;
+     }

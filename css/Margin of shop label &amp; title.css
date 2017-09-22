@@ -1,0 +1,4 @@
+/*Margin of shop label &amp; title */
+    .woocommerce div .product .product_title {
+       margin-top:10px;
+     }

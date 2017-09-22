@@ -1,0 +1,4 @@
+/*Price hide at product page*/
+    p.price {
+     display:none;
+    }

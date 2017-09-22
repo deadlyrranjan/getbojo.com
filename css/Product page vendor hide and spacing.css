@@ -1,0 +1,7 @@
+ /*product page vendor hide and spacing*/
+    .site {
+      padding-top: 20px;
+     }
+    div .store-summary {
+      display:none;
+     }

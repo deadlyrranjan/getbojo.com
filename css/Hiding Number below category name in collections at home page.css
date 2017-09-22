@@ -1,0 +1,4 @@
+/*--hiding number below category name in collections at home page--*/
+   .bm-f-category .f-cat-des {
+     font-size: 0px;
+    }

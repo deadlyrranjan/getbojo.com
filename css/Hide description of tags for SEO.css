@@ -1,0 +1,8 @@
+ /*hide description of tags for SEO*/
+    .woocommerce table.shop_attributes a{
+      color:black !important;
+      font-style:normal !important;
+     }
+    .term-description{
+      display: none!important;
+     }

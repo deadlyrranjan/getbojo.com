@@ -1,0 +1,4 @@
+/*space between related products and footer*/
+    .woocommerce-page .site {
+      padding-bottom:5px;
+     }

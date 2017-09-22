@@ -1,0 +1,4 @@
+/* background of selected variation*/
+    .tawcvs-swatches .swatch.selected {
+      border-color:#ff6600;
+     }

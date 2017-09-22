@@ -1,0 +1,4 @@
+ /*--hiding text on home page: home--*/
+    .entry-header{
+       display:none;
+      }

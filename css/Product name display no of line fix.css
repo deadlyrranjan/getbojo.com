@@ -1,0 +1,12 @@
+/*product name display no of line fix 3 */
+  .woocommerce-loop-product__title{
+    margin: 2px;
+    padding: 0px !important;
+    font-size: 1.2em;
+    display: -webkit-box!important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    -webkit-line-clamp: 3 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    }

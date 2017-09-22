@@ -1,0 +1,5 @@
+/*youtube video size at product page*/
+    iframe, video{ 
+     width: 50% !important;
+     height: 80% !important;
+    }

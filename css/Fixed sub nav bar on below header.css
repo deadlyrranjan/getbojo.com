@@ -1,0 +1,8 @@
+/* fixed sub nav bar on below header */
+    nav.subheader{
+     position: fixed;
+     top: 71px;
+     z-index: 27;
+     overflow: visible;
+     width: -webkit-fill-available;
+    }

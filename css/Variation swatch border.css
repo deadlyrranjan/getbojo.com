@@ -1,0 +1,4 @@
+ /*Variation swatch border */
+    .tawcvs-swatches .swatch {
+       border-radius:0px;width:50px;
+     }
