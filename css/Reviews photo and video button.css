@@ -1,0 +1,16 @@
+ /*photo and video button */   
+ .woocommerce #reviews .form-contribution .attachment-type:not(:checked) input[value="photo"]+label:before, .woocommerce-page #reviews .form-contribution .attachment-type:not(:checked) input[value="photo"]+label:before{
+   top: 28px;
+   left:2px;
+  }
+  .woocommerce #reviews .form-contribution .attachment-type:not(:checked) input[value="video"]+label:before, .woocommerce-page #reviews .form-contribution .attachment-type:not(:checked) input[value="video"]+label:before {
+   top: 28px;
+   left:2px;
+  }   
+  .woocommerce #reviews .form-contribution .attachment-type:not(:checked) label.checkbox, .woocommerce-page #reviews .form-contribution .attachment-type:not(:checked) label.checkbox{
+
+   width: 3.0em !important;
+
+   overflow: initial;
+
+  }
