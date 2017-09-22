@@ -1,0 +1,4 @@
+/* show mobile menu and hide in destop main header */
+     .onsocial-primary-menu{
+       display: none;
+      }
