@@ -1,0 +1,29 @@
+/* Rearrange the product detail on product page */
+        .summary, .entry-summaryr {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-vendor {
+            order: 1;
+        }
+
+        .product_title ,.entry-title {
+            order: 2;
+        }
+
+        .bm-product-description {
+            order: 3;
+        }
+        
+        .price {
+            order: 4;
+        }
+
+        .cart {
+            order: 5;
+        }
+
+        .product_meta {
+            order: 6;
+        }
